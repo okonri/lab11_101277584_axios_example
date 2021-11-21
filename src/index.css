@@ -11,3 +11,29 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+h1 {
+  background-color: darkgreen;
+  justify-content: center;
+}
+
+h3 {
+  background-color: rgb(16, 60, 204);
+}
+
+.info {
+  background-color: aqua;
+}
+
+button{
+  background-color: rgb(24, 24, 216);
+}
+
+img {
+ border-radius: 70px;
+}
+
+.centre{
+  display: flex;
+  justify-content: center;
+}
